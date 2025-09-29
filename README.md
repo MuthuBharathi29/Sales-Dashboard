@@ -58,8 +58,8 @@ This dashboard helps stakeholders monitor trends, identify top-performing region
 
 ## 📷 Preview
 
-![Dashboard Screenshot]
+[![Dashboard Screenshot]
 https://github.com/MuthuBharathi29/Sales-Dashboard/blob/5d6976b8758efdc378200628f00b2b82578db2ae/Sales_Dashboard.png
----
+---](https://github.com/MuthuBharathi29/Sales-Dashboard/blob/main/Sales_Dashboard.png)
 
 Feel free to explore, modify, and enhance this project for your own portfolio or organization!
